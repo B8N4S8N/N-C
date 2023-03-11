@@ -17,7 +17,7 @@
 			target="_blank" rel="noreferrer"
 			class="w-full md:w-auto text-center bg-white/20 hover:bg-white/50 mb-4 flex-none rounded-full text-white font-medium py-3 px-6"
 		>
-			Visit Open Source Recovery
+			OWN❤️‍🔥YOUR❤️‍🔥PATH
 		</a>
 		<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="OSRecovery" data-description="Support me on Buy me a coffee!" data-message="If you want to donate to the cause, it helps us build a new future for addiction resources" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 	</div>
