@@ -19,5 +19,6 @@
 		>
 			Learn how it's built
 		</a>
+		<script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="OSRecovery" data-description="Support me on Buy me a coffee!" data-message="If you want to donate to the cause, it helps pay for the hosting fees to keep our projects online" data-color="#BD5FFF" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
 	</div>
 </div>
