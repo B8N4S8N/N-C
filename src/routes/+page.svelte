@@ -62,7 +62,7 @@
 		endStream = false;
 		loading = true;
 
-		let fullSearchCriteria = `Give me a list of 5 ${cinemaType} recommendations ${
+		let fullSearchCriteria = `Give me a list of 10 ${cinemaType} recommendations ${
 			selectedCategories ? `that fit all of the following categories: ${selectedCategories}` : ''
 		}. ${
 			specificDescriptors
