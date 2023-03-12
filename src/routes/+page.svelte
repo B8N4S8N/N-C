@@ -70,7 +70,7 @@
 				: ''
 		} ${
 			selectedCategories || specificDescriptors
-				? `If you do not have 5 recommendations that fit these criteria perfectly, do your best to suggest other ${cinemaType}'s that I might like.`
+				? `If you do not have 10 recommendations that fit these criteria perfectly, do your best to suggest other ${cinemaType}'s that I might like.`
 				: ''
 		} Please return this response as a numbered list with the ${cinemaType}'s title, followed by a colon, and then a brief description of the ${cinemaType}. There should be a line of whitespace between each item in the list.`;
 		const response = await fetch('/api/getRecommendation', {
